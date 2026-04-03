@@ -33,11 +33,9 @@
   
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=vUSECV&show_icons=true&theme=tokyonight&count_private=true)
+![Streak](https://streak-stats.demolab.com?user=vUSECV&theme=tokyonight&hide_border=true)
 
-![Streak](https://streak-stats.demolab.com?user=vUSECV&theme=tokyoni
-
----
+## LeetCode Stats
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Chistyakov131?theme=dark)](https://leetcode.com/Chistyakov131)
 
 
