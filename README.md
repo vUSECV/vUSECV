@@ -15,19 +15,19 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Projects
-- **E-commerce-Lite** — 
+- **E-commerce-Lite** — Microservices-based online shopping project
     <br/>
   *Tech Stack: C#, Kafka, MsSql, Redis*
 
-- **BodyPainAnalyzer** — 
+- **BodyPainAnalyzer** — Analysis of the causes of the disease and treatment recommendations
     <br/>
   *Tech Stack: C#, Blazor*
 
-- **CallBoard** — 
+- **CallBoard**
   <br/>
   *Tech Stack: Java, Spring, Hibernate, PostgreSQL*
 
-- **Botik** — Telegram bot 
+- **Botik** — Telegram bot, tamagotchi 
     <br/>
   *Tech Stack: Telebot*
   
