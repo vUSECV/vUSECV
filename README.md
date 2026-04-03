@@ -2,7 +2,7 @@
 
 Почта: fgmeqw385@gmail.com
 <br/>
-Телеграм: @Lavochnyi
+Телеграм: [@Lavochnyi](https://t.me/Lavochnyi)
 
 ---
 
