@@ -17,9 +17,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Projects
+- **OnlineCourses** — Microservices-based online education
+    <br/>
+  *Tech Stack: C#, ASP.NET,EF ,MsSql, Redis, Jwt*
 - **E-commerce-Lite** — Microservices-based online shopping project
     <br/>
-  *Tech Stack: C#, Kafka, MsSql, Redis*
+  *Tech Stack: C#, ASP.NET, EF ,Kafka, MsSql, Redis*
 
 - **BodyPainAnalyzer** — Analysis of the causes of the disease and treatment recommendations
     <br/>
